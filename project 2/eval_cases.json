@@ -1,0 +1,141 @@
+[
+  {
+    "name": "sprint_planning",
+    "date": "2026-11-09",
+    "transcript": [
+      "Arjun: Good morning. Let's go through the sprint board.",
+      "Divya: The login page redesign is done. I'll start the password reset flow tomorrow.",
+      "Arjun: Nice. Karthik, please review the API documentation by Wednesday.",
+      "Karthik: Will do. I also need to fix the failing unit tests before Friday.",
+      "Divya: We have a demo with the client next week.",
+      "Arjun: Right. Meera, can you prepare the demo slides by next Tuesday?",
+      "Meera: Yes, I'll have them ready by 17 November."
+    ],
+    "gold": [
+      {"task": "Start the password reset flow", "owner": "Divya", "deadline": "2026-11-10"},
+      {"task": "Review the API documentation", "owner": "Karthik", "deadline": "2026-11-11"},
+      {"task": "Fix the failing unit tests", "owner": "Karthik", "deadline": "2026-11-13"},
+      {"task": "Prepare the demo slides", "owner": "Meera", "deadline": "2026-11-17"}
+    ]
+  },
+  {
+    "name": "marketing_sync",
+    "date": "2026-11-04",
+    "transcript": [
+      "Nisha: Thanks for joining. Quick updates on the campaign first.",
+      "Rohan: Instagram engagement is up twelve percent. I will send the weekly report to Nisha by end of day.",
+      "Nisha: Great. Sana, could you draft the newsletter by Friday?",
+      "Sana: Sure, I'll share the draft on Thursday.",
+      "Rohan: Should we increase the ad budget?",
+      "Nisha: Let's decide that next meeting. Rohan, please collect the competitor pricing data by 2026-11-11."
+    ],
+    "gold": [
+      {"task": "Send the weekly report to Nisha", "owner": "Rohan", "deadline": "2026-11-04"},
+      {"task": "Draft the newsletter", "owner": "Sana", "deadline": "2026-11-05"},
+      {"task": "Collect the competitor pricing data", "owner": "Rohan", "deadline": "2026-11-11"}
+    ]
+  },
+  {
+    "name": "engineering_standup",
+    "date": "2026-11-10",
+    "transcript": [
+      "Vikram: Let's keep this short. Any blockers?",
+      "Pooja: The database migration is blocked. Ishaan needs to approve my pull request today.",
+      "Ishaan: I'll review it after lunch.",
+      "Vikram: Pooja, you should also update the deployment checklist this week.",
+      "Ishaan: I'm going to look into the memory leak and share my findings on Thursday.",
+      "Pooja: Someone should talk to the infra team about the new servers."
+    ],
+    "gold": [
+      {"task": "Approve the pull request", "owner": "Ishaan", "deadline": "2026-11-10"},
+      {"task": "Update the deployment checklist", "owner": "Pooja", "deadline": "2026-11-13"},
+      {"task": "Look into the memory leak and share my findings", "owner": "Ishaan", "deadline": "2026-11-12"},
+      {"task": "Talk to the infra team about the new servers", "owner": null, "deadline": null}
+    ]
+  },
+  {
+    "name": "product_review_timestamps",
+    "date": "2026-11-12",
+    "transcript": [
+      "[00:01] Anita Rao: Welcome all. Today we review the Q4 roadmap.",
+      "[00:45] Suresh Kumar: I will finalize the pricing proposal by Monday.",
+      "[01:30] Anita Rao: Good. Lakshmi, can you share the customer survey results on Friday?",
+      "[02:10] Lakshmi Nair: Yes, I can share them on Friday.",
+      "[03:00] Suresh Kumar: We also need to book a venue for the offsite before 20 November.",
+      "[03:40] Anita Rao: I'll take care of the venue booking."
+    ],
+    "gold": [
+      {"task": "Finalize the pricing proposal", "owner": "Suresh Kumar", "deadline": "2026-11-16"},
+      {"task": "Share the customer survey results", "owner": "Lakshmi Nair", "deadline": "2026-11-13"},
+      {"task": "Book a venue for the offsite", "owner": "Anita Rao", "deadline": "2026-11-20"}
+    ]
+  },
+  {
+    "name": "hiring_sync_messy",
+    "date": "2026-11-16",
+    "transcript": [
+      "Gaurav: Alright, quick agenda. We need to hire a designer.",
+      "Heena: I can post the job listing today.",
+      "Gaurav: Perfect. Imran, please send me the budget numbers by tomorrow.",
+      "Imran: Okay. I can't do tomorrow though, I'll send them on Wednesday.",
+      "Heena: I'll also schedule interviews in two weeks."
+    ],
+    "gold": [
+      {"task": "Hire a designer", "owner": null, "deadline": null},
+      {"task": "Post the job listing", "owner": "Heena", "deadline": "2026-11-16"},
+      {"task": "Send the budget numbers", "owner": "Imran", "deadline": "2026-11-18"},
+      {"task": "Schedule interviews", "owner": "Heena", "deadline": "2026-11-30"}
+    ]
+  },
+  {
+    "name": "budget_review_clean",
+    "date": "2026-11-17",
+    "transcript": [
+      "Neha: Thanks everyone for joining the budget review.",
+      "Tarun: I will send the updated budget sheet to finance by Friday.",
+      "Neha: Thanks. Farah, please book the conference room for Wednesday.",
+      "Farah: Done, I'll confirm the booking today.",
+      "Tarun: Neha, can you approve the vendor invoice by 20 November?",
+      "Neha: Yes, I will approve the invoice before Friday."
+    ],
+    "gold": [
+      {"task": "Send the updated budget sheet to finance", "owner": "Tarun", "deadline": "2026-11-20"},
+      {"task": "Book the conference room", "owner": "Farah", "deadline": "2026-11-18"},
+      {"task": "Confirm the booking", "owner": "Farah", "deadline": "2026-11-17"},
+      {"task": "Approve the vendor invoice", "owner": "Neha", "deadline": "2026-11-20"}
+    ]
+  },
+  {
+    "name": "vendor_onboarding_discussion",
+    "date": "2026-11-18",
+    "transcript": [
+      "Manoj: Okay, status on the vendor onboarding?",
+      "Shreya: We are waiting on the contract. I'll follow up with legal on Monday.",
+      "Manoj: Do we know when the new laptops arrive?",
+      "Shreya: They should arrive next week, so Pranav will set up accounts before they arrive.",
+      "Pranav: Right. I need to finish the security checklist by Tuesday.",
+      "Manoj: Also, someone has to update the onboarding guide, it's outdated.",
+      "Shreya: I'll take it."
+    ],
+    "gold": [
+      {"task": "Follow up with legal", "owner": "Shreya", "deadline": "2026-11-23"},
+      {"task": "Set up accounts", "owner": "Pranav", "deadline": null},
+      {"task": "Finish the security checklist", "owner": "Pranav", "deadline": "2026-11-24"},
+      {"task": "Update the onboarding guide", "owner": "Shreya", "deadline": null}
+    ]
+  },
+  {
+    "name": "release_check",
+    "date": "2026-11-19",
+    "transcript": [
+      "Kavya: Final check before the release. Rahul, please update the changelog in 3 days.",
+      "Rahul: Sure. Kavya, can you tag the release by end of the week?",
+      "Kavya: I'll tag it on Friday, and I will email the QA team tomorrow."
+    ],
+    "gold": [
+      {"task": "Update the changelog", "owner": "Rahul", "deadline": "2026-11-22"},
+      {"task": "Tag the release", "owner": "Kavya", "deadline": "2026-11-20"},
+      {"task": "Email the QA team", "owner": "Kavya", "deadline": "2026-11-20"}
+    ]
+  }
+]
