@@ -5,9 +5,9 @@ Includes validation (missing owners, past dates, duplicates), a Streamlit UI, an
 
 ## Screenshots
 
-![Input screen](screenshot1.png)
+![Input screen](Input screen)
 
-![Results table](screenshot2.png)
+![Results table](Results table)
 
 ## Quick start
 
