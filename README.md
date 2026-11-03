@@ -5,9 +5,10 @@ Includes validation (missing owners, past dates, duplicates), a Streamlit UI, an
 
 ## Screenshots
 
-![Input screen](Input screen.png)
+<img width="663" height="370" alt="Input screen png" src="https://github.com/user-attachments/assets/3b3d34f4-b1c9-4845-9157-d15ab0f33ea6" />
 
-![Results table](Results table.png)
+
+<img width="677" height="373" alt="Results table png" src="https://github.com/user-attachments/assets/e9cfdcb5-f954-4c82-b71d-75a0e634a608" />
 
 ## Quick start
 
